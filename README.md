@@ -9,13 +9,19 @@ Madlibs is a simple way to get a story just from everyday words through user inp
 
 Madlibs uses Tkinter to create and display a window to the user. The user is then able to select a story of their choosing, and prompts will be given through the terminal. With the use of the terminal and Tkinter, Madlibs is able to generate a brand new and original story using the users inputs as a way to provide a custom and unique experience. 
 
-_Madlibs currently uses the terminal as a way to obtain user input, and will soon allow user input through the Tkinter window._ 
+_{Madlibs currently uses the terminal as a way to obtain user input, and will soon allow user input through the Tkinter window.}_ 
 
 ### Demonstration
 
 Here are two screenshots of how Madlibs works!
 
+User Window (Tkinter)
 
+![madlibs](https://user-images.githubusercontent.com/80735346/118600456-03f43e00-b77f-11eb-9846-08a2c6d0868a.png)
+
+Terminal Output:
+
+![terminal](https://user-images.githubusercontent.com/80735346/118600259-c2fc2980-b77e-11eb-9800-d79517dd9717.png)
 
 ## Installation
 
