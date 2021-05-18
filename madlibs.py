@@ -40,8 +40,9 @@ def butterfly():
     insect= input("enter a type of insect: ")
     food = input("enter a type of food: ")
     verb = input("enter a verb: ")
+    verb2 = input("enter a verb: ")
     
-    finalString = "Last night I dreamed I was a " + adj1 + " butterfly with " + color + " splotches that looked like " + thing + "." + "\n" +  "I flew to " + place + " with my bestfriend " + person + ", who was a " + adj2 + " " + insect + "." + "\n" + "We ate some " + food + " when we got there, and then decided to " + verb + " ." + "\n" + "The dream ended when I said: lets " + verb + "!"
+    finalString = "Last night, I dreamt that I was a " + adj1 + " butterfly with " + color + " splotches that looked like a " + thing + "." + "\n" +  "I flew to " + place + " with my best friend " + person + ", who was a(n) " + adj2 + " " + insect + "." + "\n" + "We ate some " + food + " when we got there, we decided to " + verb + "." + "\n" + "The dream ended when I said: Lets " + verb2 + "!"
     Label(browser, text = finalString, font = "arial 10", bg = "white").pack(pady = 10)
 
     Label(browser, text = "Click a new story to play again!", font = "georgia 15", bg = "white").pack()
