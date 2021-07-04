@@ -3,7 +3,7 @@ A quick and simple window that shows the outputted display of your MadLib.
 
 ## Description
 
-Madlibs is a simple way to get a story just from everyday words through user inputs. The user picks a story, and by following the prompts on the terminal, you end up with a creative (and sometimes wacky) story.
+Madlibs is a simple way to get a story from everyday words through user inputs. The user picks a story, and by following the prompts on the terminal, you end up with a creative (and sometimes wacky) story.
 
 ## Code
 
